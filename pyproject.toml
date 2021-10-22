@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "kaicd-fl-poc-notebooks"
+version = "0.1.0"
+description = ""
+authors = ["Daniel <daniel@adap.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+jupyterlab = "^3.2.1"
+flwr = { extras = ["simulation"], git = "https://github.com/adap/flower.git", branch = "release/0.17" }
+torch = "^1.7.0"
+torchvision = "^0.8.0"
+opacus = "^0.14.0"
+matplotlib = "^3.4.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
