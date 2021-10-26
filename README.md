@@ -1,18 +1,18 @@
 # kaicd-fl-poc-notebooks
 
-1. Introduction to Federated Learning with Flower
+- Introduction to Federated Learning with Flower
     - [KR] `FlowerIntro-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerIntro-KR.ipynb)
     - [EN] `FlowerIntro.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerIntro.ipynb)
 
-1. Moving Beyond Federated Averaging
-    - [KR] `FlowerStrategies-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies-KR.ipynb)
-    - [EN] `FlowerStrategies.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies.ipynb)
-
-1. Differentially Private Federated Learning with Opacus and Flower
+- Differentially Private Federated Learning with Opacus and Flower
     - [KR] `FlowerPrivacy-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerPrivacy-KR.ipynb)
     - [EN] `FlowerPrivacy.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerPrivacy.ipynb)
 
-1. Large-Scale Federated Learning
+- Moving Beyond Federated Averaging
+    - [KR] `FlowerStrategies-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies-KR.ipynb)
+    - [EN] `FlowerStrategies.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies.ipynb)
+
+- Large-Scale Federated Learning
     - [KR] `FlowerScale-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerScale-KR.ipynb)
     - [EN] `FlowerScale.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerScale.ipynb)
 
