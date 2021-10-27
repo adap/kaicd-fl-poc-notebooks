@@ -12,8 +12,4 @@
     - [KR] `FlowerStrategies-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies-KR.ipynb)
     - [EN] `FlowerStrategies.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerStrategies.ipynb)
 
-- Large-Scale Federated Learning
-    - [KR] `FlowerScale-KR.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerScale-KR.ipynb)
-    - [EN] `FlowerScale.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adap/kaicd-fl-poc-notebooks/blob/main/FlowerScale.ipynb)
-
 **Note: the `Open in Colab` buttons will start to work once the repo becomes public**
